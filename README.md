@@ -1,16 +1,10 @@
 # quizz_app
 
-A new Flutter project.
+Small quiz app to practice Flutter and Dart basics.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/84020433/202925488-3cef7436-787d-4bab-8281-c21fa4c9fa4f.png)
+![image](https://user-images.githubusercontent.com/84020433/202925512-2197070b-f7c8-4a3e-a279-a540531980a6.png)
+![image](https://user-images.githubusercontent.com/84020433/202925521-2929d779-e26f-4d2c-82a6-14da6ec99b4d.png)
+![image](https://user-images.githubusercontent.com/84020433/202925528-7ea426cc-8a0f-41c8-b7c2-e3b3a86ae30d.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
